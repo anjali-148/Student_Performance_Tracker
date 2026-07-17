@@ -201,6 +201,3 @@ The notebook saves:
 
 ## Intern_ID: CITS5093
 
----
-
-## ⭐ If you found this project useful, consider giving it a star!
